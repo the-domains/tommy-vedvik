@@ -1,6 +1,6 @@
 name: Tommy Vedvik
 favicon: null
-layout_spectrum: 0.02254170016385615
+layout_spectrum: 0.56782
 typography_spectrum: 0.4574180890340358
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.15754585899412632
-  lightness: 0.4230936747044325
-  saturation: 0.18374731275252998
-  rhythmicContrast: 0.06287208432331681
+  brandStrength: 0.625
+  lightness: 0.375
+  saturation: 0.375
+  rhythmicContrast: 0.5
 purpose: []
